@@ -1,4 +1,4 @@
-###  Twitter Clone® <img height="12" src="https://ogimg.infoglobo.com.br/in/3775217-ddc-98a/FT1086A/twitter_newbird_boxed_whiteonblue.png" alt="ReactJs"/>
+###  Twitter Clone® <img height="12" src="https://img.elo7.com.br/product/zoom/238CF99/cortador-passaro-twitter.jpg" alt="Twitter"/>
 
 >Projeto completo do twitter, onde os usuarios podem se cadastrar, fazer login, postar tweets, seguir outros usúarios e muito mais!
 
