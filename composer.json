@@ -1,0 +1,20 @@
+{
+
+    "name": "miniframework/php",
+    "require": {
+        "php": ">= 7.0"
+    },
+    "authors":[
+        {
+            "name": "Allan Nunes",
+            "email": "allan.vieira06@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "MF\\": "vendor/MF/"
+        }
+    }
+
+}
